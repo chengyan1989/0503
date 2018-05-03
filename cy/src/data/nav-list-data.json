@@ -1,0 +1,317 @@
+{
+    "headerNavList": [{ "id": "1", "tit": "推荐" }, { "id": "2", "tit": "女装" }, { "id": "3", "tit": "美食" }, { "id": "4", "tit": "居家" }, { "id": "5", "tit": "美妆个护" }, { "id": "6", "tit": "男装" }, { "id": "7", "tit": "内衣" }, { "id": "8", "tit": "鞋包" }, { "id": "9", "tit": "母婴" }, { "id": "10", "tit": "家电" }, { "id": "11", "tit": "好东西" }],
+    "shopList": [{
+            "titName": "推荐",
+            "id": "1",
+            "list": [{
+                    "goosId": "1",
+                    "goods": "纯色纯棉T恤-推荐",
+                    "pic": "￥6.9",
+                    "original": "￥6.6"
+                },
+                {
+                    "goosId": "2",
+                    "goods": "纯色纯棉T恤-推荐",
+                    "pic": "￥6.9",
+                    "original": "￥6.6"
+                },
+                {
+                    "goosId": "3",
+                    "goods": "纯色纯棉T恤-推荐",
+                    "pic": "￥6.9",
+                    "original": "￥6.6"
+                },
+                {
+                    "goosId": "4",
+                    "goods": "纯色纯棉T恤-推荐",
+                    "pic": "￥6.9",
+                    "original": "￥6.6"
+                }
+            ]
+        }, {
+            "titName": "女装",
+            "id": "2",
+            "list": [{
+                    "goosId": "1",
+                    "goods": "纯色纯棉T恤-女装",
+                    "pic": "￥6.9",
+                    "original": "￥6.6"
+                },
+                {
+                    "goosId": "2",
+                    "goods": "纯色纯棉T恤-女装",
+                    "pic": "￥6.9",
+                    "original": "￥6.6"
+                },
+                {
+                    "goosId": "3",
+                    "goods": "纯色纯棉T恤-女装",
+                    "pic": "￥6.9",
+                    "original": "￥6.6"
+                },
+                {
+                    "goosId": "4",
+                    "goods": "纯色纯棉T恤-女装",
+                    "pic": "￥6.9",
+                    "original": "￥6.6"
+                }
+            ]
+        }, {
+            "titName": "美食",
+            "id": "3",
+            "list": [{
+                    "goosId": "1",
+                    "goods": "纯色纯棉T恤-美食",
+                    "pic": "￥6.9",
+                    "original": "￥6.6"
+                },
+                {
+                    "goosId": "2",
+                    "goods": "纯色纯棉T恤-美食",
+                    "pic": "￥6.9",
+                    "original": "￥6.6"
+                },
+                {
+                    "goosId": "3",
+                    "goods": "纯色纯棉T恤-美食",
+                    "pic": "￥6.9",
+                    "original": "￥6.6"
+                },
+                {
+                    "goosId": "4",
+                    "goods": "纯色纯棉T恤-美食",
+                    "pic": "￥6.9",
+                    "original": "￥6.6"
+                }
+            ]
+        }, {
+            "titName": "居家",
+            "id": "4",
+            "list": [{
+                    "goosId": "1",
+                    "goods": "纯色纯棉T恤-居家",
+                    "pic": "￥6.9",
+                    "original": "￥6.6"
+                },
+                {
+                    "goosId": "2",
+                    "goods": "纯色纯棉T恤-居家",
+                    "pic": "￥6.9",
+                    "original": "￥6.6"
+                },
+                {
+                    "goosId": "3",
+                    "goods": "纯色纯棉T恤-居家",
+                    "pic": "￥6.9",
+                    "original": "￥6.6"
+                },
+                {
+                    "goosId": "4",
+                    "goods": "纯色纯棉T恤-居家",
+                    "pic": "￥6.9",
+                    "original": "￥6.6"
+                }
+            ]
+        },
+        {
+            "titName": "美妆个护理",
+            "id": "5",
+            "list": [{
+                    "goosId": "1",
+                    "goods": "纯色纯棉T恤-美妆个护理",
+                    "pic": "￥6.9",
+                    "original": "￥6.6"
+                },
+                {
+                    "goosId": "2",
+                    "goods": "纯色纯棉T恤-美妆个护理",
+                    "pic": "￥6.9",
+                    "original": "￥6.6"
+                },
+                {
+                    "goosId": "3",
+                    "goods": "纯色纯棉T恤-美妆个护理",
+                    "pic": "￥6.9",
+                    "original": "￥6.6"
+                },
+                {
+                    "goosId": "4",
+                    "goods": "纯色纯棉T恤-美妆个护理",
+                    "pic": "￥6.9",
+                    "original": "￥6.6"
+                }
+            ]
+        }, {
+            "titName": "男装",
+            "id": "6",
+            "list": [{
+                    "goosId": "1",
+                    "goods": "纯色纯棉T恤-男装",
+                    "pic": "￥6.9",
+                    "original": "￥6.6"
+                },
+                {
+                    "goosId": "2",
+                    "goods": "纯色纯棉T恤-男装",
+                    "pic": "￥6.9",
+                    "original": "￥6.6"
+                },
+                {
+                    "goosId": "3",
+                    "goods": "纯色纯棉T恤-男装",
+                    "pic": "￥6.9",
+                    "original": "￥6.6"
+                },
+                {
+                    "goosId": "4",
+                    "goods": "纯色纯棉T恤-男装",
+                    "pic": "￥6.9",
+                    "original": "￥6.6"
+                }
+            ]
+        },
+        {
+            "titName": "内衣",
+            "id": "7",
+            "list": [{
+                    "goosId": "1",
+                    "goods": "纯色纯棉T恤-内衣",
+                    "pic": "￥6.9",
+                    "original": "￥6.6"
+                },
+                {
+                    "goosId": "2",
+                    "goods": "纯色纯棉T恤-内衣",
+                    "pic": "￥6.9",
+                    "original": "￥6.6"
+                },
+                {
+                    "goosId": "3",
+                    "goods": "纯色纯棉T恤-内衣",
+                    "pic": "￥6.9",
+                    "original": "￥6.6"
+                },
+                {
+                    "goosId": "4",
+                    "goods": "纯色纯棉T恤-内衣",
+                    "pic": "￥6.9",
+                    "original": "￥6.6"
+                }
+            ]
+        },
+        {
+            "titName": "鞋包",
+            "id": "8",
+            "list": [{
+                    "goosId": "1",
+                    "goods": "纯色纯棉T恤-鞋包",
+                    "pic": "￥6.9",
+                    "original": "￥6.6"
+                },
+                {
+                    "goosId": "2",
+                    "goods": "纯色纯棉T恤-鞋包",
+                    "pic": "￥6.9",
+                    "original": "￥6.6"
+                },
+                {
+                    "goosId": "3",
+                    "goods": "纯色纯棉T恤-鞋包",
+                    "pic": "￥6.9",
+                    "original": "￥6.6"
+                },
+                {
+                    "goosId": "4",
+                    "goods": "纯色纯棉T恤-鞋包",
+                    "pic": "￥6.9",
+                    "original": "￥6.6"
+                }
+            ]
+        }, {
+            "titName": "母婴",
+            "id": "9",
+            "list": [{
+                    "goosId": "1",
+                    "goods": "纯色纯棉T恤-母婴",
+                    "pic": "￥6.9",
+                    "original": "￥6.6"
+                },
+                {
+                    "goosId": "2",
+                    "goods": "纯色纯棉T恤-母婴",
+                    "pic": "￥6.9",
+                    "original": "￥6.6"
+                },
+                {
+                    "goosId": "3",
+                    "goods": "纯色纯棉T恤-母婴",
+                    "pic": "￥6.9",
+                    "original": "￥6.6"
+                },
+                {
+                    "goosId": "4",
+                    "goods": "纯色纯棉T恤-母婴",
+                    "pic": "￥6.9",
+                    "original": "￥6.6"
+                }
+            ]
+        }, {
+            "titName": "家电",
+            "id": "10",
+            "list": [{
+                    "goosId": "1",
+                    "goods": "纯色纯棉T恤-家电",
+                    "pic": "￥6.9",
+                    "original": "￥6.6"
+                },
+                {
+                    "goosId": "2",
+                    "goods": "纯色纯棉T恤-家电",
+                    "pic": "￥6.9",
+                    "original": "￥6.6"
+                },
+                {
+                    "goosId": "3",
+                    "goods": "纯色纯棉T恤-家电",
+                    "pic": "￥6.9",
+                    "original": "￥6.6"
+                },
+                {
+                    "goosId": "4",
+                    "goods": "纯色纯棉T恤-家电",
+                    "pic": "￥6.9",
+                    "original": "￥6.6"
+                }
+            ]
+        }, {
+            "titName": "好东西",
+            "id": "11",
+            "list": [{
+                    "goosId": "1",
+                    "goods": "纯色纯棉T恤-好东西",
+                    "pic": "￥6.9",
+                    "original": "￥6.6"
+                },
+                {
+                    "goosId": "2",
+                    "goods": "纯色纯棉T恤-好东西",
+                    "pic": "￥6.9",
+                    "original": "￥6.6"
+                },
+                {
+                    "goosId": "3",
+                    "goods": "纯色纯棉T恤-好东西",
+                    "pic": "￥6.9",
+                    "original": "￥6.6"
+                },
+                {
+                    "goosId": "4",
+                    "goods": "纯色纯棉T恤-好东西",
+                    "pic": "￥6.9",
+                    "original": "￥6.6"
+                }
+            ]
+        }
+    ]
+
+}
