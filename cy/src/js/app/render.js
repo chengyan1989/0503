@@ -1,13 +1,9 @@
-define(["jquery", 'handlebars'], function($, Handlebars) {
-    function render(scriptID, data, contentBox) {
+define(["jquery", "handlebars"], function($, Handlebars) {
+    function render(scriptID, data, parendID) {
         var src = scriptID.html();
-
         var template = Handlebars.compile(src);
-        // Handlebars.registerHelper("add", function(index) {
-        //     return index + 1
-        // });
         var html = template(data);
-        contentBox.html(html);
+        parendID.html(html);
     }
     return {
         render: render

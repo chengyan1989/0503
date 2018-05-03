@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no">
+    <meta name="format-detection" content="telephone=no,emaik=no,address=no">
+    <meta http - equiv="X-UA-Compatible" content="IE=edga,chrome=1">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/index.css">
+
+</head>
+
+<body>
+    <div class="wrap">
+        <header>再次练习</header>
+        <section>
+            <div class="page1 page" style="display:block">
+                <div class="page1-wrap">
+                    <div class="page1-header">
+                        <ul class="page1-header-list">
+
+                        </ul>
+                    </div>
+                    <script type="text/x-handlebars-template" id="page1-header-list-tpl">
+                        {{#each this}}
+                        <li data-id="{{id}}">{{tit}}</li>
+                        {{/each}}
+                    </script>
+                </div>
+            </div>
+            <div class="page2 page">详情</div>
+            <div class="page3 page">我的</div>
+        </section>
+        <footer>
+            <span>首页</span>
+            <span>详情</span>
+            <span>我的</span>
+        </footer>
+    </div>
+</body>
+<script src="./js/libs/require.js"></script>
+<script>
+    require(["./js/config.js"], function() {
+        require(["index"])
+    })
+</script>
+
+</html>
